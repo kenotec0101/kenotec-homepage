@@ -1,5 +1,3 @@
-# kenotec-homepage
-홈페이지
 [index.html](https://github.com/user-attachments/files/26748370/index.html)
 <!DOCTYPE html>
 <html lang="ko">
